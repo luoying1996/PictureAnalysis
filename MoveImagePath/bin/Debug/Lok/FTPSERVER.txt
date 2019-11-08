@@ -1,0 +1,5 @@
+﻿
+2019/11/07  09:42:50:083
+   在 MoveImagePath.FTPHelper.UpLoadFile(String sourceFile, String remoteFile, Int32 islog) 位置 E:\project\PictureAnalysis\MoveImagePath\FTPHelper.cs:行号 153行号--System.Exception: exex
+   在 MoveImagePath.FTPHelper.UpLoadFile(String sourceFile, String remoteFile, Int32 islog) 位置 E:\project\PictureAnalysis\MoveImagePath\FTPHelper.cs:行号 153
+
